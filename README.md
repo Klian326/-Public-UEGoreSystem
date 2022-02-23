@@ -1,4 +1,7 @@
 # UEGoreSystem
+
+![NewLogoV3_512](https://user-images.githubusercontent.com/48155922/155427710-c16af04e-2450-4ad0-8878-6dd753f745d0.png)
+
 GoreSystem Plugin for Unreal Engine 4.27+
 
 (☞ﾟヮﾟ)☞ Unreal Engine 5 Ready!
