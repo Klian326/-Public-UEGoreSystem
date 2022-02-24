@@ -24,4 +24,5 @@ This plugin will speed up your development process if you wanna add some cool bl
 - 3+ years of active development ✔
 
 Marketplace page: https://www.unrealengine.com/marketplace/en-US/product/klian-s-gore-system-plugin
+
 UEGoreSystem Wiki: https://github.com/Klian326/UEGoreSystem/wiki
