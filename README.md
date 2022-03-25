@@ -8,8 +8,7 @@ GoreSystem Plugin for Unreal Engine 4.27+
 
 ##
 
-## New update UEGoreSystem "V3" is still pending review!
-![image](https://user-images.githubusercontent.com/48155922/155445167-2feb949c-a118-4903-be0f-b1cdf9cc9911.png)
+## New update UEGoreSystem "V3" ready!
 
 This plugin will speed up your development process if you wanna add some cool bloody effect to your project.
 
