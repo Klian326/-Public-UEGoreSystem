@@ -10,15 +10,17 @@ GoreSystem Plugin for Unreal Engine 4.27+
 
 ## New update UEGoreSystem "V3" ready!
 
-This plugin will speed up your development process if you wanna add some cool bloody effect to your project.
+This plugin will speed up your development process if you wanna add some cool bloody effects to your project.
 
 - C++ native ✔
+- Automatic dismemberment ✔
 - Blueprint full support ✔
 - Multithread ✔
 - Replicated ✔
 - UE5 support ✔
 - Example project ✔
 - Example assets ✔
+- Example mocap animation assets ✔
 - Metahuman example ✔
 - 3+ years of active development ✔
 
